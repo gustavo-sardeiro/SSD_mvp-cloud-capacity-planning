@@ -16,7 +16,7 @@ Empresas de custódia e armazenamento de dados em nuvem necessitam planejar a ex
 ---
 
 ## 2. Metodologia e Estrutura dos Dados
-O projeto segue o framework estruturado de Ciência de Dados em 6 Fases (Perguntar, Preparar, Processar, Analisar, Compartilhar e Agir):
+O projeto segue o framework estruturado de Análise de Dados em 6 Fases (Perguntar, Preparar, Processar, Analisar, Compartilhar e Agir):
 
 * **Coleta Automatizada:** Autenticação via API do Kaggle com controle de credenciais (`chmod 600`) para reprodutibilidade integral.
 * **Higienização de Viés:** Tratamento explícito de dados com isolamento e remoção da amostragem de servidores legados/obsoletos (>9 anos).
